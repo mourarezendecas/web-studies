@@ -1,0 +1,105 @@
+
+body{
+    background: #2b2b2b; 
+  }
+  
+  img{
+    margin-bottom: 20px;
+  }
+  
+  .container {
+    width: 500px;
+    display: flex;
+    flex-direction:column;
+    margin: auto;
+    font-family: circular-spotify-ui,Helvetica Neue,Helvetica,Arial,sans-serif;
+    margin-top: 200px; 
+  }
+  
+  .login{
+    height: 35px;   
+    padding: 0 20px;
+    border-radius: 10px;  
+    border: 0px; 
+    margin-bottom: 3px; 
+    border: 2px solid #2B2B2B;
+    color: black;
+    text-align: center;
+    outline: none;
+  }
+  
+  button{
+    height: 60px; 
+    font-size: 1.2rem;
+    padding: 0 20px;
+    border-radius: 5px;   
+    border: 1px solid #1ed760;
+    color: #1ED760; 
+    margin: 20px 0; 
+    background: #000000;
+    cursor:pointer;
+    margin-bottom: 2px;
+    transition: 0.7s;
+  }
+
+  #button:hover{
+    background: #1ED760;
+    color: black;
+    border: 1px solid black;
+  }
+
+  .checkboxx{
+    color:  #1ed760;
+    font-family: 'Roboto', sans-serif; 
+    text-align: center;
+
+  }
+
+  .button-fb{
+    height: 45px; 
+    font-size: 20px;
+    padding: 0 20px;
+    border-radius: 20px;   
+    border: 1px solid #000000;
+    color: #ffffff; 
+    margin: 20px 0; 
+    background: #4267B2;
+    cursor:pointer;
+    margin-bottom: 3px;
+    transition: 0.7s;
+  }
+
+  .button-fb:hover{
+    background: #5d93ff;
+  }
+
+  .button-apple{
+    height: 45px; 
+    font-size: 20px;
+    padding: 0 20px;
+    border-radius: 20px;   
+    border: 1px solid #000000;
+    color: #ffffff; 
+    margin: 20px 0; 
+    background: #636366;
+    cursor:pointer;
+    margin-top: 3px;
+    transition: 0.7s;
+  }
+
+  .button-apple:hover{
+    background: #7c7c7c;
+  }
+
+  .forgotandother{
+    text-align: center; 
+    color: white; 
+    font-family: 'Roboto', sans-serif; 
+    margin: 15px auto 5px auto; 
+  }
+  
+  @media (max-width: 414px) {
+    .container{
+      width: 364px; 
+    }
+  }
