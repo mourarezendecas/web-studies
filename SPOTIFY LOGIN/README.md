@@ -1,5 +1,4 @@
-<h1 align="center">🇧🇷PÁGINA DE LOGIN DO SPOTIFY🇧🇷</h1>
-<h2 align="center">SPOTIFY LOGIN PAGE</h2>
+<h1 align="center">PÁGINA DE LOGIN DO SPOTIFY / SPOTIFY LOGIN PAGE</h1>
 
 <p align="center">Nesse estudo eu tento recriar a página de login do Spotify usando apenas HTML e CSS, modificando alguns aspectos visuais que mais me agradam</p>
 
