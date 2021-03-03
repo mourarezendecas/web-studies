@@ -1,6 +1,6 @@
 <h1 align="center">PÁGINA DE LOGIN DO SPOTIFY / SPOTIFY LOGIN PAGE</h1>
 
-<p align="center">Nesse estudo eu tento recriar a página de login do Spotify usando apenas HTML e CSS, modificando alguns aspectos visuais que mais me agradam</p>
+<p align="center">Nesse estudo eu tento recriar a página de login do Spotify usando apenas HTML e CSS, modificando alguns aspectos visuais.</p>
 
 <p align="center">In this study i'll try to recreate the Spotify login page using only HTML and CSS, modifying some visual aspects that I like</p> 
 
