@@ -5,5 +5,5 @@
 <p align="center">In this study i'll try to recreate the Spotify login page using only HTML and CSS, modifying some visual aspects that I like</p> 
 
 <p align="center">
-![spotify](https://user-images.githubusercontent.com/46174954/109750738-b292d480-7bbb-11eb-8907-c59b8902f25b.gif)
+<img src="https://user-images.githubusercontent.com/46174954/109750738-b292d480-7bbb-11eb-8907-c59b8902f25b.gif">
 </p>
